@@ -1,0 +1,45 @@
+
+[
+  {
+    "id": 1,
+    "nome": "Brigadeiro Gourmet",
+    "descricao": "Brigadeiro artesanal de chocolate meio amargo.",
+    "preco": 4.5,
+    "imagem": ""
+  },
+  {
+    "id": 2,
+    "nome": "Beijinho",
+    "descricao": "Doce de coco com leite condensado.",
+    "preco": 3.5,
+    "imagem": ""
+  },
+  {
+    "id": 3,
+    "nome": "Brownie de Chocolate",
+    "descricao": "Brownie macio com sabor intenso de chocolate.",
+    "preco": 8,
+    "imagem": ""
+  },
+  {
+    "id": 4,
+    "nome": "Bolo de Cenoura",
+    "descricao": "Fatia de bolo de cenoura com cobertura de chocolate.",
+    "preco": 7.5,
+    "imagem": ""
+  },
+  {
+    "id": 5,
+    "nome": "Trufa de Morango",
+    "descricao": "Trufa recheada com delicioso creme de morango.",
+    "preco": 5,
+    "imagem": ""
+  },
+  {
+    "id": 6,
+    "nome": "Cookie com Chocolate",
+    "descricao": "Cookie artesanal com gotas de chocolate.",
+    "preco": 6,
+    "imagem": ""
+  }
+]
